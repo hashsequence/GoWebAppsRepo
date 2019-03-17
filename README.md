@@ -3,7 +3,7 @@ WebApps built with Go
 
 Author: Avery Wong
 
-Samples Tutorials used to Learn
+Sample Web Servers made for learning purposes
 ```
 helloWorldServer
 simpleBlockChain
