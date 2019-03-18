@@ -12,7 +12,11 @@ Some differences include:
 * All structs are fully fleshed out (in the book chapter, they are only implied)
 * Some of the functions are placed as methods for the struct types instead of being a part of the package
 
+NOTE: I used this web app as a learning example and is not my original work
+
 Made some changes from the original author:
+(changes made by hashsequence)
+* modified Db initialization in data.go for my local pc
 ```go
 const (
   host     = "localhost"
