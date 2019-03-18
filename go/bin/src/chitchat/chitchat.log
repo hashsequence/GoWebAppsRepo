@@ -1,0 +1,40 @@
+ERROR 2019/03/17 22:03:55 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 22:14:30 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 22:18:45 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 22:20:21 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 22:20:55 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 23:01:34 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 23:04:23 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 23:07:59 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 23:09:34 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 23:10:47 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 23:13:06 utils.go:100: pq: password authentication failed for user "root" Cannot create user
+ERROR 2019/03/17 23:27:29 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 23:31:25 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
+ERROR 2019/03/17 23:35:15 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:35:19 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:36:39 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:38:13 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:41:31 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:45:42 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:47:28 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:49:32 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:50:58 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:51:45 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:53:37 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:53:39 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:53:39 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/17 23:55:12 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:10:04 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:16:11 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:17:09 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:20:39 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:24:59 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:26:38 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:34:11 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:35:27 utils.go:100: unexpected EOF Cannot create user
+ERROR 2019/03/18 00:36:25 utils.go:100: unexpected EOF Cannot create user
+WARNING 2019/03/18 00:56:26 utils.go:105: <nil> Failed to get cookie
+ERROR 2019/03/18 00:57:24 utils.go:100: unexpected EOF Cannot create user
+WARNING 2019/03/18 01:09:08 utils.go:105: <nil> Failed to get cookie
+ERROR 2019/03/18 01:09:22 utils.go:100: pq: password authentication failed for user "avwong13" Cannot create user
